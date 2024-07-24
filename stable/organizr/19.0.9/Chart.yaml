@@ -27,7 +27,7 @@ maintainers:
 name: organizr
 sources:
   - https://github.com/causefx/Organizr
-  - https://github.com/truecharts/charts/tree/master/charts/stable/organizr
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/organizr
   - https://hub.docker.com/r/organizr/organizr
 type: application
 version: 19.0.9

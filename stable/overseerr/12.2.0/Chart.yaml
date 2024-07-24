@@ -32,7 +32,7 @@ maintainers:
 name: overseerr
 sources:
   - https://github.com/sct/overseerr
-  - https://github.com/truecharts/charts/tree/master/charts/stable/overseerr
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/overseerr
   - https://ghcr.io/sct/overseerr
 type: application
 version: 12.2.0

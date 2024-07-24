@@ -32,7 +32,7 @@ maintainers:
 name: ciao
 sources:
   - https://brotandgames.com/ciao/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/ciao
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/ciao
   - https://hub.docker.com/r/brotandgames/ciao
 type: application
 version: 5.8.16

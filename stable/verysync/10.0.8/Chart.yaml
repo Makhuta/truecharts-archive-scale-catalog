@@ -29,7 +29,7 @@ maintainers:
     url: https://truecharts.org
 name: verysync
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/verysync
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/verysync
   - https://hub.docker.com/r/jonnyan404/verysync
 type: application
 version: 10.0.8

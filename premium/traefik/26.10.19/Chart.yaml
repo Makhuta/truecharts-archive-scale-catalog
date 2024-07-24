@@ -32,7 +32,7 @@ sources:
   - https://github.com/traefik/traefik
   - https://github.com/traefik/traefik-helm-chart
   - https://traefik.io/
-  - https://github.com/truecharts/charts/tree/master/charts/premium/traefik
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/premium/traefik
   - https://github.com/truecharts/containers/tree/master/apps/traefik
 type: application
 version: 26.10.19

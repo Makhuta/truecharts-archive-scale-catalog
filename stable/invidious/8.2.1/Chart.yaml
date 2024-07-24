@@ -32,7 +32,7 @@ name: invidious
 sources:
   - https://github.com/iv-org/invidious
   - https://docs.invidious.io/installation/#docker
-  - https://github.com/truecharts/charts/tree/master/charts/stable/invidious
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/invidious
   - https://quay.io/invidious/invidious
 type: application
 version: 8.2.1

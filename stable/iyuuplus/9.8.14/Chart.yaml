@@ -29,7 +29,7 @@ maintainers:
     url: https://truecharts.org
 name: iyuuplus
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/iyuuplus
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/iyuuplus
   - https://hub.docker.com/r/iyuucn/iyuuplus
 type: application
 version: 9.8.14

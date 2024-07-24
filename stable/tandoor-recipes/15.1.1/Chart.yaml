@@ -31,7 +31,7 @@ maintainers:
 name: tandoor-recipes
 sources:
   - https://github.com/vabene1111/recipes
-  - https://github.com/truecharts/charts/tree/master/charts/stable/tandoor-recipes
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/tandoor-recipes
   - https://hub.docker.com/r/vabene1111/recipes
 type: application
 version: 15.1.1

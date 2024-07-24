@@ -28,7 +28,7 @@ maintainers:
     url: https://truecharts.org
 name: pgadmin
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/pgadmin
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/pgadmin
   - https://hub.docker.com/r/dpage/pgadmin4
   - https://www.pgadmin.org/
 type: application

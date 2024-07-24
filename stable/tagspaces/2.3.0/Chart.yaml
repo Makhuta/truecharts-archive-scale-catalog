@@ -30,7 +30,7 @@ maintainers:
 name: tagspaces
 sources:
   - https://github.com/tagspaces/tagspaces
-  - https://github.com/truecharts/charts/tree/master/charts/stable/tagspaces
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/tagspaces
   - https://hub.docker.com/r/tagspaces/tagspaces-lite-web
 type: application
 version: 2.3.0

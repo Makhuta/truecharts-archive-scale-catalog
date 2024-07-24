@@ -31,7 +31,7 @@ name: kiwix-serve
 sources:
   - https://www.kiwix.org/
   - https://github.com/kiwix/kiwix-tools/blob/master/docker/server
-  - https://github.com/truecharts/charts/tree/master/charts/stable/kiwix-serve
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/kiwix-serve
   - https://ghcr.io/kiwix/kiwix-serve
 type: application
 version: 8.9.13

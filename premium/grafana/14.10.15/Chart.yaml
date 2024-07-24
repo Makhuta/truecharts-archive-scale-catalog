@@ -33,7 +33,7 @@ name: grafana
 sources:
   - https://grafana.com/
   - https://github.com/bitnami/bitnami-docker-grafana
-  - https://github.com/truecharts/charts/tree/master/charts/premium/grafana
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/premium/grafana
   - https://quay.io/kiwigrid/k8s-sidecar
   - https://hub.docker.com/r/grafana/grafana
 type: application

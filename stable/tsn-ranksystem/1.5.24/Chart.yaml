@@ -40,7 +40,7 @@ sources:
   - https://github.com/JohannesBauer97/tsn-ranksystem-webserver
   - https://ts-ranksystem.com/
   - https://github.com/Newcomer1989/TSN-Ranksystem
-  - https://github.com/truecharts/charts/tree/master/charts/stable/tsn-ranksystem
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/tsn-ranksystem
   - https://hub.docker.com/r/serverlein/tsn-ranksystem-webserver
 type: application
 version: 1.5.24

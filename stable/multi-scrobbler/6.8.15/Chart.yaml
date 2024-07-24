@@ -30,7 +30,7 @@ maintainers:
     url: https://truecharts.org
 name: multi-scrobbler
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/multi-scrobbler
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/multi-scrobbler
   - https://hub.docker.com/r/foxxmd/multi-scrobbler
 type: application
 version: 6.8.15

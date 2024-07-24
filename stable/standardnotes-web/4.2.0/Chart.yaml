@@ -30,7 +30,7 @@ maintainers:
 name: standardnotes-web
 sources:
   - https://standardnotes.org/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/standardnotes-web
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/standardnotes-web
   - https://hub.docker.com/r/standardnotes/web
 type: application
 version: 4.2.0

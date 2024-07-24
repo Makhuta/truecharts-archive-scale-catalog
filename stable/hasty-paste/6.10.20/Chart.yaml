@@ -41,7 +41,7 @@ name: hasty-paste
 sources:
   - https://github.com/enchant97/hasty-paste
   - https://github.com/enchant97/hasty-paste/blob/main/docs/install.md
-  - https://github.com/truecharts/charts/tree/master/charts/stable/hasty-paste
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/hasty-paste
   - https://ghcr.io/enchant97/hasty-paste
 type: application
 version: 6.10.20

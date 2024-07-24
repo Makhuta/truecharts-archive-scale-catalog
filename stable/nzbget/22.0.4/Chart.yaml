@@ -28,7 +28,7 @@ maintainers:
 name: nzbget
 sources:
   - https://ghcr.io/geek-cookbook/nzbget
-  - https://github.com/truecharts/charts/tree/master/charts/stable/nzbget
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/nzbget
   - https://nzbget.net/
 type: application
 version: 22.0.4

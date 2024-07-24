@@ -30,7 +30,7 @@ maintainers:
 name: yacreaderlibraryserver
 sources:
   - https://www.yacreader.com
-  - https://github.com/truecharts/charts/tree/master/charts/stable/yacreaderlibraryserver
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/yacreaderlibraryserver
   - https://hub.docker.com/r/xthursdayx/yacreaderlibrary-server-docker
 type: application
 version: 5.8.13

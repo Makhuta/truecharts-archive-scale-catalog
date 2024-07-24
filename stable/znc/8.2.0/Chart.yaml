@@ -28,7 +28,7 @@ maintainers:
     url: https://truecharts.org
 name: znc
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/znc
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/znc
   - https://ghcr.io/linuxserver/znc
 type: application
 version: 8.2.0

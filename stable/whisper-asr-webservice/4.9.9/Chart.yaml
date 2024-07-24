@@ -30,7 +30,7 @@ maintainers:
 name: whisper-asr-webservice
 sources:
   - https://github.com/ahmetoner/whisper-asr-webservice
-  - https://github.com/truecharts/charts/tree/master/charts/stable/whisper-asr-webservice
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/whisper-asr-webservice
   - https://hub.docker.com/r/onerahmet/openai-whisper-asr-webservice
 type: application
 version: 4.9.9

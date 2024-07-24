@@ -30,7 +30,7 @@ maintainers:
 name: remotely
 sources:
   - https://remotely.one/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/remotely
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/remotely
   - https://hub.docker.com/r/immybot/remotely
 type: application
 version: 5.8.13

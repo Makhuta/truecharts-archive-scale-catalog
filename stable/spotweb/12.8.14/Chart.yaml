@@ -32,7 +32,7 @@ name: spotweb
 sources:
   - https://github.com/spotweb/spotweb
   - https://github.com/joachimbaten/spotweb-docker
-  - https://github.com/truecharts/charts/tree/master/charts/stable/spotweb
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/spotweb
   - https://hub.docker.com/r/jbaten/spotweb
 type: application
 version: 12.8.14

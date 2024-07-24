@@ -34,7 +34,7 @@ name: digikam
 sources:
   - https://github.com/linuxserver/docker-digikam
   - https://www.digikam.org/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/digikam
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/digikam
   - https://ghcr.io/linuxserver/digikam
 type: application
 version: 10.3.0

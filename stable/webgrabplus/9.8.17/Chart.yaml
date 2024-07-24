@@ -28,7 +28,7 @@ maintainers:
     url: https://truecharts.org
 name: webgrabplus
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/webgrabplus
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/webgrabplus
   - https://ghcr.io/linuxserver/webgrabplus
 type: application
 version: 9.8.17

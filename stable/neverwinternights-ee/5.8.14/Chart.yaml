@@ -30,7 +30,7 @@ maintainers:
 name: neverwinternights-ee
 sources:
   - https://www.beamdog.com/games/neverwinter-nights-enhanced/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/neverwinternights-ee
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/neverwinternights-ee
   - https://hub.docker.com/r/ich777/nwnee-server
 type: application
 version: 5.8.14

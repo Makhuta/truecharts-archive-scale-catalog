@@ -27,7 +27,7 @@ maintainers:
     url: https://truecharts.org
 name: dontstarvetogether
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/dontstarvetogether
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/dontstarvetogether
   - https://hub.docker.com/r/ich777/steamcmd
   - https://www.klei.com/games/dont-starve-together
 type: application

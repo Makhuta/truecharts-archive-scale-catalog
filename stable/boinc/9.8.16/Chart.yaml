@@ -28,7 +28,7 @@ maintainers:
     url: https://truecharts.org
 name: boinc
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/boinc
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/boinc
   - https://ghcr.io/linuxserver/boinc
 type: application
 version: 9.8.16

@@ -31,7 +31,7 @@ maintainers:
 name: suistartpage
 sources:
   - https://github.com/CorneliousJD/SUI-Startpage
-  - https://github.com/truecharts/charts/tree/master/charts/stable/suistartpage
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/suistartpage
   - https://hub.docker.com/r/corneliousjd/sui-startpage
 type: application
 version: 5.8.14

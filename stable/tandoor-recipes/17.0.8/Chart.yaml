@@ -28,7 +28,7 @@ maintainers:
     url: https://truecharts.org
 name: tandoor-recipes
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/tandoor-recipes
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/tandoor-recipes
   - https://github.com/vabene1111/recipes
   - https://hub.docker.com/r/vabene1111/recipes
 type: application

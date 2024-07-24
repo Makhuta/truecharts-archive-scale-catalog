@@ -31,7 +31,7 @@ maintainers:
 name: lyrion-music-server
 sources:
   - https://github.com/LMS-Community/slimserver
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/lyrion-music-server
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/incubator/lyrion-music-server
   - https://hub.docker.com/r/lmscommunity/lyrionmusicserver
 type: application
 version: 2.0.3

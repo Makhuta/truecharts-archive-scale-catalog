@@ -27,7 +27,7 @@ maintainers:
 name: it-tools
 sources:
   - https://github.com/CorentinTh/it-tools
-  - https://github.com/truecharts/charts/tree/master/charts/stable/it-tools
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/it-tools
   - https://hub.docker.com/r/corentinth/it-tools
 type: application
 version: 5.0.4

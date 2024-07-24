@@ -32,6 +32,6 @@ name: deemix
 sources:
   - https://git.freezerapp.xyz/RemixDev/deemix-py
   - https://gitlab.com/Bockiii/deemix-docker.git
-  - https://github.com/truecharts/charts/tree/master/charts/stable/deemix
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/deemix
 type: application
 version: 10.8.14

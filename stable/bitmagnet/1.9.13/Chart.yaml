@@ -31,7 +31,7 @@ name: bitmagnet
 sources:
   - https://bitmagnet.io
   - https://github.com/bitmagnet-io/bitmagnet
-  - https://github.com/truecharts/charts/tree/master/charts/stable/bitmagnet
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/bitmagnet
   - https://ghcr.io/bitmagnet-io/bitmagnet
 type: application
 version: 1.9.13

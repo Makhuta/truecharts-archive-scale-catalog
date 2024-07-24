@@ -28,7 +28,7 @@ maintainers:
     url: https://truecharts.org
 name: root
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/root
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/root
   - https://hub.docker.com/r/bgameiro/arch-cern-root
   - https://root.cern/
 type: application

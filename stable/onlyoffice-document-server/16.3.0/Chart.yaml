@@ -37,7 +37,7 @@ name: onlyoffice-document-server
 sources:
   - https://github.com/ONLYOFFICE/Docker-DocumentServer
   - https://github.com/ONLYOFFICE/DocumentServer
-  - https://github.com/truecharts/charts/tree/master/charts/stable/onlyoffice-document-server
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/onlyoffice-document-server
   - https://hub.docker.com/r/onlyoffice/documentserver
 type: application
 version: 16.3.0

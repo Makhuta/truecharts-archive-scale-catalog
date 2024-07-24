@@ -33,7 +33,7 @@ maintainers:
 name: debian-apt-mirror
 sources:
   - https://www.debian.org/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/debian-apt-mirror
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/debian-apt-mirror
   - https://hub.docker.com/r/ich777/debian-mirror
 type: application
 version: 5.8.14

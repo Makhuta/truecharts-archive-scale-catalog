@@ -31,7 +31,7 @@ maintainers:
 name: facturascripts
 sources:
   - https://facturascripts.com/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/facturascripts
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/facturascripts
   - https://hub.docker.com/r/unraides/facturascripts
 type: application
 version: 4.1.11

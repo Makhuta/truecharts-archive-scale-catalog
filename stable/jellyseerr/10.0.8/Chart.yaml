@@ -27,7 +27,7 @@ maintainers:
 name: jellyseerr
 sources:
   - https://github.com/Fallenbagel/jellyseerr
-  - https://github.com/truecharts/charts/tree/master/charts/stable/jellyseerr
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/jellyseerr
   - https://hub.docker.com/r/fallenbagel/jellyseerr
 type: application
 version: 10.0.8

@@ -30,7 +30,7 @@ sources:
   - https://fleet.linuxserver.io/image?name=linuxserver/kdenlive
   - https://github.com/linuxserver/docker-kdenlive#readme
   - https://github.com/orgs/linuxserver/packages/container/package/kdenlive
-  - https://github.com/truecharts/charts/tree/master/charts/stable/kdenlive
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/kdenlive
   - https://kdenlive.org/
 type: application
 version: 6.0.8

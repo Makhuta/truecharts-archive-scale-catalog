@@ -29,7 +29,7 @@ maintainers:
 name: wallos
 sources:
   - https://github.com/ellite/Wallos
-  - https://github.com/truecharts/charts/tree/master/charts/stable/wallos
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/wallos
   - https://hub.docker.com/r/bellamy/wallos
 type: application
 version: 4.8.18

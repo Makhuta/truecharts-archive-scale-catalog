@@ -33,7 +33,7 @@ maintainers:
 name: rapidphotodownloader
 sources:
   - https://www.damonlynch.net/rapid/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/rapidphotodownloader
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/rapidphotodownloader
   - https://hub.docker.com/r/ich777/rapidphotodownloader
 type: application
 version: 5.8.14

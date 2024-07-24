@@ -28,7 +28,7 @@ maintainers:
 name: docuseal
 sources:
   - https://github.com/docusealco/docuseal
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/docuseal
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/incubator/docuseal
   - https://hub.docker.com/r/docuseal/docuseal
 type: application
 version: 1.0.0

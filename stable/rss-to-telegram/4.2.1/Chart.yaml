@@ -32,7 +32,7 @@ maintainers:
 name: rss-to-telegram
 sources:
   - https://github.com/BoKKeR/RSS-to-Telegram-Bot
-  - https://github.com/truecharts/charts/tree/master/charts/stable/rss-to-telegram
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/rss-to-telegram
   - https://hub.docker.com/r/bokker/rss.to.telegram
 type: application
 version: 4.2.1

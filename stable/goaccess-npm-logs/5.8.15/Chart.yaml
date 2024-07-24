@@ -31,7 +31,7 @@ maintainers:
 name: goaccess-npm-logs
 sources:
   - https://github.com/xavier-hernandez/goaccess-for-nginxproxymanager
-  - https://github.com/truecharts/charts/tree/master/charts/stable/goaccess-npm-logs
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/goaccess-npm-logs
   - https://hub.docker.com/r/xavierh/goaccess-for-nginxproxymanager
 type: application
 version: 5.8.15

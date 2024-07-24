@@ -36,7 +36,7 @@ maintainers:
 name: pigallery2
 sources:
   - https://github.com/bpatrik/pigallery2
-  - https://github.com/truecharts/charts/tree/master/charts/stable/pigallery2
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/pigallery2
   - https://hub.docker.com/r/bpatrik/pigallery2
 type: application
 version: 4.3.0

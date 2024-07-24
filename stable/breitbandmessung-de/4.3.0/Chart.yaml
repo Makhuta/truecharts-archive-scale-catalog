@@ -34,7 +34,7 @@ maintainers:
 name: breitbandmessung-de
 sources:
   - https://github.com/shneezin/breitbandmessung-node
-  - https://github.com/truecharts/charts/tree/master/charts/stable/breitbandmessung-de
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/breitbandmessung-de
   - https://hub.docker.com/r/shneezin/breitbandmessung-node
 type: application
 version: 4.3.0

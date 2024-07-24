@@ -31,7 +31,7 @@ maintainers:
 name: lama-cleaner
 sources:
   - https://github.com/Sanster/lama-cleaner
-  - https://github.com/truecharts/charts/tree/master/charts/stable/lama-cleaner
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/lama-cleaner
   - https://hub.docker.com/r/cwq1913/lama-cleaner
 type: application
 version: 5.2.0

@@ -27,7 +27,7 @@ maintainers:
     url: https://truecharts.org
 name: redm
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/redm
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/redm
   - https://hub.docker.com/r/ich777/redmserver
   - https://redm.gg/
 type: application

@@ -31,7 +31,7 @@ maintainers:
 name: fotosho
 sources:
   - https://github.com/advplyr/fotosho
-  - https://github.com/truecharts/charts/tree/master/charts/stable/fotosho
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/fotosho
   - https://hub.docker.com/r/advplyr/fotosho
 type: application
 version: 4.3.0

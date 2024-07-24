@@ -31,7 +31,7 @@ name: metallb-config
 sources:
   - https://metallb.universe.tf
   - https://github.com/metallb/metallb
-  - https://github.com/truecharts/charts/tree/master/charts/premium/metallb-config
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/premium/metallb-config
   - https://hub.docker.com/_/hello-world
 type: application
 version: 6.8.15

@@ -30,7 +30,7 @@ maintainers:
 name: borg-server
 sources:
   - https://github.com/AnotherStranger/docker-borg-backup
-  - https://github.com/truecharts/charts/tree/master/charts/stable/borg-server
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/borg-server
   - https://ghcr.io/anotherstranger/borg-server
 type: application
 version: 4.9.15

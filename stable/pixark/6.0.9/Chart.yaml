@@ -27,7 +27,7 @@ maintainers:
     url: https://truecharts.org
 name: pixark
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/pixark
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/pixark
   - https://hub.docker.com/r/ich777/steamcmd
   - https://pixark.snail.com/
 type: application

@@ -29,7 +29,7 @@ maintainers:
     url: https://truecharts.org
 name: fenrus
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/fenrus
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/fenrus
   - https://hub.docker.com/r/revenz/fenrus
 type: application
 version: 5.8.13

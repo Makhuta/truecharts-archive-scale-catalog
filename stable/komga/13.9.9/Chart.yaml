@@ -33,7 +33,7 @@ name: komga
 sources:
   - https://github.com/gotson/komga
   - https://komga.org/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/komga
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/komga
   - https://hub.docker.com/r/gotson/komga
 type: application
 version: 13.9.9

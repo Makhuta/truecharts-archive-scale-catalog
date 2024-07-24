@@ -30,7 +30,7 @@ maintainers:
 name: pixark
 sources:
   - https://pixark.snail.com/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/pixark
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/pixark
   - https://hub.docker.com/r/ich777/steamcmd
 type: application
 version: 5.8.13

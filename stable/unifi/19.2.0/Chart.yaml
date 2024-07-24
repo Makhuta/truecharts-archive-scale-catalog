@@ -31,7 +31,7 @@ name: unifi
 sources:
   - https://unifi-network.ui.com
   - https://github.com/jacobalberty/unifi-docker
-  - https://github.com/truecharts/charts/tree/master/charts/stable/unifi
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/unifi
   - https://ghcr.io/goofball222/unifi
 type: application
 version: 19.2.0

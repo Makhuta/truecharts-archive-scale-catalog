@@ -30,7 +30,7 @@ maintainers:
 name: explainshell
 sources:
   - https://github.com/idank/explainshell
-  - https://github.com/truecharts/charts/tree/master/charts/stable/explainshell
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/explainshell
   - https://hub.docker.com/r/spaceinvaderone/explainshell
 type: application
 version: 5.8.13

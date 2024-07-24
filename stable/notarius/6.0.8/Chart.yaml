@@ -28,7 +28,7 @@ maintainers:
 name: notarius
 sources:
   - https://github.com/agusalex/Notarius
-  - https://github.com/truecharts/charts/tree/master/charts/stable/notarius
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/notarius
   - https://hub.docker.com/r/agusalex/notarius
 type: application
 version: 6.0.8

@@ -29,7 +29,7 @@ maintainers:
 name: jupyter
 sources:
   - https://github.com/jupyter/docker-stacks
-  - https://github.com/truecharts/charts/tree/master/charts/stable/jupyter
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/jupyter
   - https://hub.docker.com/r/jupyter/all-spark-notebook
   - https://hub.docker.com/r/jupyter/base-notebook
   - https://hub.docker.com/r/jupyter/datascience-notebook

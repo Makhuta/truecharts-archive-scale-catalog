@@ -32,7 +32,7 @@ name: cloudflareddns
 sources:
   - https://hotio.dev/containers/cloudflareddns/
   - https://github.com/hotio/cloudflareddns
-  - https://github.com/truecharts/charts/tree/master/charts/stable/cloudflareddns
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/cloudflareddns
   - https://ghcr.io/hotio/cloudflareddns
 type: application
 version: 8.3.0

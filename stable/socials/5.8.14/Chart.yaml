@@ -31,7 +31,7 @@ name: socials
 sources:
   - https://github.com/diamkil/socials
   - https://registry.hub.docker.com/r/diamkil/socials/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/socials
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/socials
   - https://ghcr.io/diamkil/socials
 type: application
 version: 5.8.14

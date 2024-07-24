@@ -27,7 +27,7 @@ maintainers:
     url: https://truecharts.org
 name: starmade
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/starmade
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/starmade
   - https://hub.docker.com/r/ich777/starmade-server
   - https://www.star-made.org/
 type: application

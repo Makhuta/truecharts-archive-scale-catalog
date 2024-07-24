@@ -30,7 +30,7 @@ maintainers:
 name: citadel-forgedwithfire
 sources:
   - https://www.steampowered.com/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/citadel-forgedwithfire
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/citadel-forgedwithfire
   - https://hub.docker.com/r/ich777/steamcmd
 type: application
 version: 5.8.14

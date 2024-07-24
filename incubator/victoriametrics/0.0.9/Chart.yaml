@@ -31,7 +31,7 @@ maintainers:
 name: victoriametrics
 sources:
   - https://github.com/VictoriaMetrics/VictoriaMetrics/tree/master
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/victoriametrics
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/incubator/victoriametrics
   - https://hub.docker.com/r/victoriametrics/victoria-metrics
 type: application
 version: 0.0.9

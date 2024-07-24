@@ -30,7 +30,7 @@ maintainers:
 name: postscriptum
 sources:
   - https://www.steampowered.com/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/postscriptum
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/postscriptum
   - https://hub.docker.com/r/ich777/steamcmd
 type: application
 version: 5.8.13

@@ -32,7 +32,7 @@ sources:
   - https://github.com/linuxserver/docker-blender#readme
   - https://www.blender.org/
   - https://github.com/orgs/linuxserver/packages/container/package/blender
-  - https://github.com/truecharts/charts/tree/master/charts/stable/blender
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/blender
   - https://fleet.linuxserver.io/image?name=linuxserver/blender
 type: application
 version: 5.8.17

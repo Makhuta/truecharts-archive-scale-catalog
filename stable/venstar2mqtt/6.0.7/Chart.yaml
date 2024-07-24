@@ -29,7 +29,7 @@ maintainers:
 name: venstar2mqtt
 sources:
   - https://github.com/terafin/mqtt-venstar-bridge
-  - https://github.com/truecharts/charts/tree/master/charts/stable/venstar2mqtt
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/venstar2mqtt
   - https://hub.docker.com/r/terafin/mqtt-venstar-bridge
 type: application
 version: 6.0.7

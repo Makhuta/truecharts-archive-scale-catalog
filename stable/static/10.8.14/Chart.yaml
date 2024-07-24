@@ -33,7 +33,7 @@ name: static
 sources:
   - https://github.com/prologic/static
   - https://github.com/nicholaswilde/docker-static
-  - https://github.com/truecharts/charts/tree/master/charts/stable/static
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/static
   - https://ghcr.io/nicholaswilde/static
 type: application
 version: 10.8.14

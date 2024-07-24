@@ -28,7 +28,7 @@ maintainers:
 name: shaarli
 sources:
   - https://github.com/shaarli/Shaarli
-  - https://github.com/truecharts/charts/tree/master/charts/stable/shaarli
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/shaarli
   - https://hub.docker.com/r/shaarli/shaarli
 type: application
 version: 6.0.8

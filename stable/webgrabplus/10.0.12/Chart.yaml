@@ -27,6 +27,6 @@ maintainers:
 name: webgrabplus
 sources:
   - https://ghcr.io/linuxserver/webgrabplus
-  - https://github.com/truecharts/charts/tree/master/charts/stable/webgrabplus
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/webgrabplus
 type: application
 version: 10.0.12

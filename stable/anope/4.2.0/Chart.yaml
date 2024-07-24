@@ -32,7 +32,7 @@ maintainers:
 name: anope
 sources:
   - https://thelounge.chat/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/anope
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/anope
   - https://hub.docker.com/r/ich777/anope
 type: application
 version: 4.2.0

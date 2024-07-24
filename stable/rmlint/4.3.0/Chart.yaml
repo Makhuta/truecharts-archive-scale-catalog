@@ -30,7 +30,7 @@ maintainers:
 name: rmlint
 sources:
   - https://github.com/sahib/rmlint
-  - https://github.com/truecharts/charts/tree/master/charts/stable/rmlint
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/rmlint
   - https://hub.docker.com/r/bobbintb/docker-rmlint-unraid
 type: application
 version: 4.3.0

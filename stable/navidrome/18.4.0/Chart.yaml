@@ -31,7 +31,7 @@ maintainers:
 name: navidrome
 sources:
   - https://github.com/deluan/navidrome
-  - https://github.com/truecharts/charts/tree/master/charts/stable/navidrome
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/navidrome
   - https://hub.docker.com/r/deluan/navidrome
 type: application
 version: 18.4.0

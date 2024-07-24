@@ -27,7 +27,7 @@ maintainers:
     url: https://truecharts.org
 name: xware
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/xware
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/xware
   - https://hub.docker.com/r/caiguai/docker-xware
 type: application
 version: 6.0.8

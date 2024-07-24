@@ -30,7 +30,7 @@ name: wisemapping
 sources:
   - https://www.wisemapping.com/
   - https://bitbucket.org/wisemapping/wisemapping-open-source/src/develop/
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/wisemapping
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/incubator/wisemapping
   - https://hub.docker.com/r/wisemapping/wisemapping
 type: application
 version: 1.0.3

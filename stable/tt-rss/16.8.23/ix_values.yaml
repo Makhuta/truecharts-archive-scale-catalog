@@ -204,7 +204,7 @@ configmap:
           sendfile on;
           index index.php;
           # Removed during app integration to Truecharts.
-          # See: https://github.com/truecharts/charts/pull/17293#discussion_r1461102952
+          # See: https://github.com/rogersbernat/truecharts-charts/pull/17293#discussion_r1461102952
           #resolver ${RESOLVER} valid=5s;
           server {
             listen {{ .Values.service.main.ports.main.port }};

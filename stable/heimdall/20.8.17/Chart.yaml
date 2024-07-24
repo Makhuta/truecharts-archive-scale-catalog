@@ -29,7 +29,7 @@ maintainers:
 name: heimdall
 sources:
   - https://github.com/linuxserver/Heimdall/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/heimdall
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/heimdall
   - https://hub.docker.com/r/linuxserver/heimdall
 type: application
 version: 20.8.17

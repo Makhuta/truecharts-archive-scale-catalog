@@ -33,7 +33,7 @@ maintainers:
 name: synctube
 sources:
   - https://github.com/RblSb/SyncTube
-  - https://github.com/truecharts/charts/tree/master/charts/stable/synctube
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/synctube
   - https://hub.docker.com/r/littlestache/synctube
 type: application
 version: 8.0.7

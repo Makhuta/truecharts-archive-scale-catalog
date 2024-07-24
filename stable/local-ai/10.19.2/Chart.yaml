@@ -28,7 +28,7 @@ maintainers:
 name: local-ai
 sources:
   - https://github.com/go-skynet/LocalAI
-  - https://github.com/truecharts/charts/tree/master/charts/stable/local-ai
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/local-ai
   - https://hub.docker.com/r/localai/localai
 type: application
 version: 10.19.2

@@ -27,7 +27,7 @@ maintainers:
     url: https://truecharts.org
 name: dayz
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/dayz
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/dayz
   - https://hub.docker.com/r/ich777/steamcmd
   - https://www.bohemia.net/games/dayz
 type: application

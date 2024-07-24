@@ -28,7 +28,7 @@ maintainers:
 name: requestrr
 sources:
   - https://github.com/thomst08/requestrr
-  - https://github.com/truecharts/charts/tree/master/charts/stable/requestrr
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/requestrr
   - https://hub.docker.com/r/thomst08/requestrr
 type: application
 version: 11.0.7

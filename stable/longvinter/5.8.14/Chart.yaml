@@ -30,7 +30,7 @@ maintainers:
 name: longvinter
 sources:
   - https://www.steampowered.com/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/longvinter
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/longvinter
   - https://hub.docker.com/r/ich777/steamcmd
 type: application
 version: 5.8.14

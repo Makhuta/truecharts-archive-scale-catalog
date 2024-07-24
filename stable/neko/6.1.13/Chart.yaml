@@ -30,7 +30,7 @@ maintainers:
 name: neko
 sources:
   - https://github.com/m1k1o/neko
-  - https://github.com/truecharts/charts/tree/master/charts/stable/neko
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/neko
   - https://ghcr.io/m1k1o/neko/brave
   - https://ghcr.io/m1k1o/neko/vivaldi
   - https://ghcr.io/m1k1o/neko/google-chrome

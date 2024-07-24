@@ -30,7 +30,7 @@ maintainers:
 name: csgo
 sources:
   - https://www.steampowered.com/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/csgo
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/csgo
   - https://hub.docker.com/r/ich777/steamcmd
 type: application
 version: 4.3.0

@@ -29,7 +29,7 @@ maintainers:
 name: tasmocompiler
 sources:
   - https://github.com/benzino77/tasmocompiler
-  - https://github.com/truecharts/charts/tree/master/charts/stable/tasmocompiler
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/tasmocompiler
   - https://hub.docker.com/r/benzino77/tasmocompiler
 type: application
 version: 7.0.7

@@ -32,7 +32,7 @@ name: handbrake
 sources:
   - https://handbrake.fr/
   - https://github.com/jlesage/docker-handbrake
-  - https://github.com/truecharts/charts/tree/master/charts/stable/handbrake
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/handbrake
   - https://hub.docker.com/r/jlesage/handbrake
 type: application
 version: 21.9.14

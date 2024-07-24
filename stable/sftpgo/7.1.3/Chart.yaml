@@ -29,6 +29,6 @@ name: sftpgo
 sources:
   - https://ghcr.io/drakkan/sftpgo
   - https://github.com/drakkan/sftpgo
-  - https://github.com/truecharts/charts/tree/master/charts/stable/sftpgo
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/sftpgo
 type: application
 version: 7.1.3

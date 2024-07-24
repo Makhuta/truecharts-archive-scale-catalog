@@ -31,7 +31,7 @@ maintainers:
 name: bwapp
 sources:
   - https://sourceforge.net/projects/bwapp/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/bwapp
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/bwapp
   - https://hub.docker.com/r/raesene/bwapp
 type: application
 version: 4.3.0

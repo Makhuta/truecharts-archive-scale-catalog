@@ -32,6 +32,6 @@ name: crafty-4
 sources:
   - https://craftycontrol.com/
   - https://gitlab.com/crafty-controller/crafty-4
-  - https://github.com/truecharts/charts/tree/master/charts/stable/crafty-4
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/crafty-4
 type: application
 version: 7.9.14

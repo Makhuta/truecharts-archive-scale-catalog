@@ -31,7 +31,7 @@ maintainers:
 name: root
 sources:
   - https://root.cern/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/root
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/root
   - https://hub.docker.com/r/bgameiro/arch-cern-root
 type: application
 version: 5.8.14

@@ -28,7 +28,7 @@ maintainers:
 name: peppermint
 sources:
   - https://github.com/Peppermint-Lab/peppermint
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/peppermint
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/incubator/peppermint
   - https://hub.docker.com/r/pepperlabs/peppermint
 type: application
 version: 1.0.3

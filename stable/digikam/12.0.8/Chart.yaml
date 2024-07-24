@@ -32,7 +32,7 @@ name: digikam
 sources:
   - https://ghcr.io/linuxserver/digikam
   - https://github.com/linuxserver/docker-digikam
-  - https://github.com/truecharts/charts/tree/master/charts/stable/digikam
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/digikam
   - https://www.digikam.org/
 type: application
 version: 12.0.8

@@ -30,7 +30,7 @@ maintainers:
 name: spaceengineers
 sources:
   - https://github.com/Devidian/docker-spaceengineers
-  - https://github.com/truecharts/charts/tree/master/charts/stable/spaceengineers
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/spaceengineers
   - https://hub.docker.com/r/devidian/spaceengineers
 type: application
 version: 6.8.13

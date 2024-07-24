@@ -32,7 +32,7 @@ maintainers:
 name: tvheadend
 sources:
   - https://github.com/tvheadend/tvheadend
-  - https://github.com/truecharts/charts/tree/master/charts/stable/tvheadend
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/tvheadend
   - https://ghcr.io/linuxserver/tvheadend
 type: application
 version: 19.8.16

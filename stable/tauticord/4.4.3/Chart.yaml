@@ -31,7 +31,7 @@ maintainers:
 name: tauticord
 sources:
   - https://github.com/nwithan8/tauticord
-  - https://github.com/truecharts/charts/tree/master/charts/stable/tauticord
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/tauticord
   - https://ghcr.io/nwithan8/tauticord
 type: application
 version: 4.4.3

@@ -29,7 +29,7 @@ maintainers:
     url: https://truecharts.org
 name: virt-manager
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/virt-manager
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/virt-manager
   - https://hub.docker.com/r/mber5/virt-manager
 type: application
 version: 4.2.0

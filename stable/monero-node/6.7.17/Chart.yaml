@@ -32,7 +32,7 @@ maintainers:
 name: monero-node
 sources:
   - https://github.com/kannix/monero-full-node
-  - https://github.com/truecharts/charts/tree/master/charts/stable/monero-node
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/monero-node
   - https://ghcr.io/sethforprivacy/simple-monerod
 type: application
 version: 6.7.17

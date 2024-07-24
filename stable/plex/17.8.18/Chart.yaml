@@ -30,7 +30,7 @@ maintainers:
 name: plex
 sources:
   - https://github.com/k8s-at-home/container-images/pkgs/container/plex
-  - https://github.com/truecharts/charts/tree/master/charts/stable/plex
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/plex
   - https://ghcr.io/onedr0p/plex
 type: application
 version: 17.8.18

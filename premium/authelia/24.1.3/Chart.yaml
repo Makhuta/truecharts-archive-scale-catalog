@@ -46,6 +46,6 @@ sources:
   - https://ghcr.io/authelia/authelia
   - https://github.com/authelia/authelia
   - https://github.com/authelia/chartrepo
-  - https://github.com/truecharts/charts/tree/master/charts/premium/authelia
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/premium/authelia
 type: application
 version: 24.1.3

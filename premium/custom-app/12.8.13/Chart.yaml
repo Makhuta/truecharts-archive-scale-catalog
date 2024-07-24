@@ -28,7 +28,7 @@ maintainers:
     url: https://truecharts.org
 name: custom-app
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/premium/custom-app
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/premium/custom-app
   - https://ghcr.io/linuxserver/jackett
 type: application
 version: 12.8.13

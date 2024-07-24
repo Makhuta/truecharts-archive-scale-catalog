@@ -32,6 +32,6 @@ maintainers:
 name: archiveteam-warrior
 sources:
   - https://wiki.archiveteam.org/index.php/ArchiveTeam_Warrior
-  - https://github.com/truecharts/charts/tree/master/charts/stable/archiveteam-warrior
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/archiveteam-warrior
 type: application
 version: 5.8.14

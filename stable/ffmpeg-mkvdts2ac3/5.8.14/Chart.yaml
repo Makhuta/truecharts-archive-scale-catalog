@@ -31,7 +31,7 @@ maintainers:
 name: ffmpeg-mkvdts2ac3
 sources:
   - https://registry.hub.docker.com/r/snoopy86/ffmpeg/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/ffmpeg-mkvdts2ac3
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/ffmpeg-mkvdts2ac3
   - https://hub.docker.com/r/snoopy86/ffmpeg
 type: application
 version: 5.8.14

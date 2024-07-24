@@ -28,7 +28,7 @@ maintainers:
 name: cs2
 sources:
   - https://github.com/ich777/docker-steamcmd-server/tree/cs2
-  - https://github.com/truecharts/charts/tree/master/charts/stable/cs2
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/cs2
   - https://hub.docker.com/r/ich777/steamcmd
 type: application
 version: 4.0.9

@@ -29,7 +29,7 @@ maintainers:
 name: deemix
 sources:
   - https://git.freezerapp.xyz/RemixDev/deemix-py
-  - https://github.com/truecharts/charts/tree/master/charts/stable/deemix
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/deemix
   - https://gitlab.com/Bockiii/deemix-docker.git
 type: application
 version: 11.0.8

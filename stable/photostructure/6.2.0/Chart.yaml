@@ -32,7 +32,7 @@ maintainers:
 name: photostructure
 sources:
   - https://github.com/photostructure/photostructure-for-servers
-  - https://github.com/truecharts/charts/tree/master/charts/stable/photostructure
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/photostructure
   - https://hub.docker.com/r/photostructure/server
 type: application
 version: 6.2.0

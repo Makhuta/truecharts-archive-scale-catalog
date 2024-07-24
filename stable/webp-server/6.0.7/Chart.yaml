@@ -32,7 +32,7 @@ maintainers:
     url: https://truecharts.org
 name: webp-server
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/webp-server
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/webp-server
   - https://github.com/webp-sh/webp_server_go
   - https://hub.docker.com/r/webpsh/webps
 type: application

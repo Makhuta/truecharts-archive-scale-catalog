@@ -44,7 +44,7 @@ maintainers:
 name: ctfd
 sources:
   - https://github.com/CTFd/CTFd
-  - https://github.com/truecharts/charts/tree/master/charts/stable/ctfd
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/ctfd
   - https://ghcr.io/ctfd/ctfd
 type: application
 version: 4.20.25

@@ -31,7 +31,7 @@ maintainers:
 name: semaphore
 sources:
   - https://github.com/ansible-semaphore/semaphore
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/semaphore
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/incubator/semaphore
   - https://hub.docker.com/r/semaphoreui/semaphore
 type: application
 version: 1.2.19

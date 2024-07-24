@@ -30,7 +30,7 @@ maintainers:
     url: https://truecharts.org
 name: hoobs
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/hoobs
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/hoobs
   - https://hub.docker.com/r/hoobs/hoobs
 type: application
 version: 4.2.0

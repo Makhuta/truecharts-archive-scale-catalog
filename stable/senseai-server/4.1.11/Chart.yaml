@@ -30,7 +30,7 @@ maintainers:
 name: senseai-server
 sources:
   - https://github.com/codeproject/CodeProject.SenseAI
-  - https://github.com/truecharts/charts/tree/master/charts/stable/senseai-server
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/senseai-server
   - https://hub.docker.com/r/codeproject/senseai-server
 type: application
 version: 4.1.11

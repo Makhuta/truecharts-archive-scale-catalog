@@ -30,7 +30,7 @@ maintainers:
 name: actualserver
 sources:
   - https://github.com/Kippenhof/docker-templates
-  - https://github.com/truecharts/charts/tree/master/charts/stable/actualserver
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/actualserver
   - https://ghcr.io/actualbudget/actual-server
 type: application
 version: 9.2.0

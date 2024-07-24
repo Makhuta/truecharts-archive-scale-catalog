@@ -27,7 +27,7 @@ maintainers:
     url: https://truecharts.org
 name: longvinter
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/longvinter
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/longvinter
   - https://hub.docker.com/r/ich777/steamcmd
   - https://www.steampowered.com/
 type: application

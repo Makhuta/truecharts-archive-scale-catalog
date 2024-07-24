@@ -31,7 +31,7 @@ maintainers:
 name: plextraktsync
 sources:
   - https://github.com/Taxel/PlexTraktSync
-  - https://github.com/truecharts/charts/tree/master/charts/stable/plextraktsync
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/plextraktsync
   - https://ghcr.io/taxel/plextraktsync
 type: application
 version: 6.4.0

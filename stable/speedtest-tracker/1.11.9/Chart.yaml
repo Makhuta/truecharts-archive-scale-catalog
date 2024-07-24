@@ -38,7 +38,7 @@ name: speedtest-tracker
 sources:
   - https://github.com/alexjustesen/speedtest-tracker
   - https://github.com/linuxserver/docker-speedtest-tracker
-  - https://github.com/truecharts/charts/tree/master/charts/stable/speedtest-tracker
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/speedtest-tracker
   - https://ghcr.io/linuxserver/speedtest-tracker
 type: application
 version: 1.11.9

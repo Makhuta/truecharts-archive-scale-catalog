@@ -34,7 +34,7 @@ name: filezilla
 sources:
   - https://github.com/linuxserver/docker-filezilla
   - https://filezilla-project.org/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/filezilla
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/filezilla
   - https://ghcr.io/linuxserver/filezilla
 type: application
 version: 10.3.1

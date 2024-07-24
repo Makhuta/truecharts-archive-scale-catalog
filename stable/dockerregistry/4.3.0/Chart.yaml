@@ -35,7 +35,7 @@ name: dockerregistry
 sources:
   - https://registry.hub.docker.com/_/registry/
   - https://github.com/distribution/distribution
-  - https://github.com/truecharts/charts/tree/master/charts/stable/dockerregistry
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/dockerregistry
   - https://hub.docker.com/_/registry
 type: application
 version: 4.3.0

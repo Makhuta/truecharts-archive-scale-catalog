@@ -32,7 +32,7 @@ maintainers:
 name: whoogle
 sources:
   - https://github.com/benbusby/whoogle-search
-  - https://github.com/truecharts/charts/tree/master/charts/stable/whoogle
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/whoogle
   - https://hub.docker.com/r/benbusby/whoogle-search
 type: application
 version: 10.8.14

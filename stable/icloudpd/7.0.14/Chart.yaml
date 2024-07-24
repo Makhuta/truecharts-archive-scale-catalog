@@ -29,7 +29,7 @@ maintainers:
     url: https://truecharts.org
 name: icloudpd
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/icloudpd
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/icloudpd
   - https://hub.docker.com/r/boredazfcuk/icloudpd
 type: application
 version: 7.0.14

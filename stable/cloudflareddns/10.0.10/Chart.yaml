@@ -30,7 +30,7 @@ name: cloudflareddns
 sources:
   - https://ghcr.io/hotio/cloudflareddns
   - https://github.com/hotio/cloudflareddns
-  - https://github.com/truecharts/charts/tree/master/charts/stable/cloudflareddns
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/cloudflareddns
   - https://hotio.dev/containers/cloudflareddns/
 type: application
 version: 10.0.10

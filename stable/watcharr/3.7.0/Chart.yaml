@@ -30,7 +30,7 @@ maintainers:
 name: watcharr
 sources:
   - https://github.com/sbondCo/Watcharr
-  - https://github.com/truecharts/charts/tree/master/charts/stable/watcharr
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/watcharr
   - https://ghcr.io/sbondco/watcharr
 type: application
 version: 3.7.0

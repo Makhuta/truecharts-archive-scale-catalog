@@ -32,7 +32,7 @@ maintainers:
 name: sickgear
 sources:
   - https://github.com/SickGear/SickGear
-  - https://github.com/truecharts/charts/tree/master/charts/stable/sickgear
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/sickgear
   - https://hub.docker.com/r/sickgear/sickgear
 type: application
 version: 11.8.14

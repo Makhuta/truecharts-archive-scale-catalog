@@ -30,7 +30,7 @@ maintainers:
 name: openttd
 sources:
   - https://www.openttd.org/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/openttd
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/openttd
   - https://hub.docker.com/r/ich777/openttdserver
 type: application
 version: 5.8.15

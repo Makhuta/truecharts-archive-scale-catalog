@@ -28,7 +28,7 @@ maintainers:
     url: https://truecharts.org
 name: scrutiny
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/scrutiny
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/scrutiny
   - https://ghcr.io/analogj/scrutiny
 type: application
 version: 10.9.15

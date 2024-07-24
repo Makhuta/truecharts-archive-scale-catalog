@@ -30,7 +30,7 @@ maintainers:
 name: grafana
 sources:
   - https://github.com/bitnami/bitnami-docker-grafana
-  - https://github.com/truecharts/charts/tree/master/charts/premium/grafana
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/premium/grafana
   - https://grafana.com/
   - https://hub.docker.com/r/grafana/grafana
   - https://quay.io/kiwigrid/k8s-sidecar

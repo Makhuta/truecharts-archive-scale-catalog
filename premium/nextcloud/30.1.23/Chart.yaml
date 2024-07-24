@@ -39,7 +39,7 @@ name: nextcloud
 sources:
   - https://github.com/nextcloud/docker
   - https://github.com/nextcloud/helm
-  - https://github.com/truecharts/charts/tree/master/charts/premium/nextcloud
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/premium/nextcloud
   - https://github.com/truecharts/containers/tree/master/apps/nextcloud-fpm
   - https://github.com/truecharts/containers/tree/master/apps/nextcloud-imaginary
   - https://github.com/truecharts/containers/tree/master/apps/nextcloud-push-notify

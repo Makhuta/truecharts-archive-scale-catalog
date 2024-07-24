@@ -31,7 +31,7 @@ maintainers:
 name: megasync
 sources:
   - https://github.com/ich777/docker-megasync
-  - https://github.com/truecharts/charts/tree/master/charts/stable/megasync
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/megasync
   - https://hub.docker.com/r/ich777/megasync
 type: application
 version: 7.0.10

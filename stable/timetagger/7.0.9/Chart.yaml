@@ -29,7 +29,7 @@ name: timetagger
 sources:
   - https://ghcr.io/almarklein/timetagger
   - https://github.com/almarklein/timetagger
-  - https://github.com/truecharts/charts/tree/master/charts/stable/timetagger
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/timetagger
   - https://timetagger.app
 type: application
 version: 7.0.9

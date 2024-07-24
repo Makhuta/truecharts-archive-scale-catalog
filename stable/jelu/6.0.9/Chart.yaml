@@ -28,7 +28,7 @@ maintainers:
 name: jelu
 sources:
   - https://github.com/bayang/jelu
-  - https://github.com/truecharts/charts/tree/master/charts/stable/jelu
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/jelu
   - https://hub.docker.com/r/wabayang/jelu
 type: application
 version: 6.0.9

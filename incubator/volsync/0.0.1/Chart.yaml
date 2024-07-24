@@ -32,7 +32,7 @@ sources:
   - https://github.com/volsync/volsync
   - https://github.com/volsync/volsync-helm-chart
   - https://volsync.readthedocs.io/
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/volsync
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/incubator/volsync
   - https://quay.io/backube/volsync
   - https://quay.io/brancz/kube-rbac-proxy
 type: application

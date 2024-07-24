@@ -27,7 +27,7 @@ maintainers:
     url: https://truecharts.org
 name: americasarmy-pg
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/americasarmy-pg
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/americasarmy-pg
   - https://hub.docker.com/r/ich777/steamcmd
   - https://www.americasarmy.com/
 type: application

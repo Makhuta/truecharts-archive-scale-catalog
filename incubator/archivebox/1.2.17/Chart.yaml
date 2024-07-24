@@ -32,7 +32,7 @@ maintainers:
 name: archivebox
 sources:
   - https://github.com/ArchiveBox/ArchiveBox
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/archivebox
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/incubator/archivebox
   - https://hub.docker.com/r/archivebox/archivebox
 type: application
 version: 1.2.17

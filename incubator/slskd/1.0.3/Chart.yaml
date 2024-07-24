@@ -29,7 +29,7 @@ maintainers:
 name: slskd
 sources:
   - https://github.com/ansible-slskd/slskd
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/slskd
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/incubator/slskd
   - https://ghcr.io/slskd/slskd
 type: application
 version: 1.0.3

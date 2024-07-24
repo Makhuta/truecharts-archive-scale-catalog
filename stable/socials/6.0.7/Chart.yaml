@@ -29,7 +29,7 @@ name: socials
 sources:
   - https://ghcr.io/diamkil/socials
   - https://github.com/diamkil/socials
-  - https://github.com/truecharts/charts/tree/master/charts/stable/socials
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/socials
   - https://registry.hub.docker.com/r/diamkil/socials/
 type: application
 version: 6.0.7

@@ -37,7 +37,7 @@ maintainers:
 name: van-dam
 sources:
   - https://github.com/Floppy/van_dam
-  - https://github.com/truecharts/charts/tree/master/charts/stable/van-dam
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/van-dam
   - https://ghcr.io/floppy/van_dam
 type: application
 version: 4.10.19

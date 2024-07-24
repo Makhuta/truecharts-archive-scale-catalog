@@ -30,7 +30,7 @@ maintainers:
 name: openbooks
 sources:
   - https://github.com/evan-buss/openbooks
-  - https://github.com/truecharts/charts/tree/master/charts/stable/openbooks
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/openbooks
   - https://hub.docker.com/r/evanbuss/openbooks
 type: application
 version: 3.3.0

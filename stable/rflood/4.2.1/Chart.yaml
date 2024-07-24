@@ -30,7 +30,7 @@ maintainers:
 name: rflood
 sources:
   - https://hotio.dev/containers/rflood
-  - https://github.com/truecharts/charts/tree/master/charts/stable/rflood
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/rflood
   - https://ghcr.io/hotio/rflood
 type: application
 version: 4.2.1

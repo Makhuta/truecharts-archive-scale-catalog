@@ -36,7 +36,7 @@ maintainers:
 name: papermerge
 sources:
   - https://github.com/ciur/papermerge
-  - https://github.com/truecharts/charts/tree/master/charts/stable/papermerge
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/papermerge
   - https://hub.docker.com/r/papermerge/papermerge
 type: application
 version: 11.3.0

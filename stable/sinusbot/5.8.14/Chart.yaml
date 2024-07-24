@@ -32,7 +32,7 @@ maintainers:
 name: sinusbot
 sources:
   - https://forum.sinusbot.com
-  - https://github.com/truecharts/charts/tree/master/charts/stable/sinusbot
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/sinusbot
   - https://hub.docker.com/r/sinusbot/docker
 type: application
 version: 5.8.14

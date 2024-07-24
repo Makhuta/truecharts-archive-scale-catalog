@@ -30,7 +30,7 @@ maintainers:
 name: booksonic-air
 sources:
   - https://github.com/popeen/Booksonic-Air
-  - https://github.com/truecharts/charts/tree/master/charts/stable/booksonic-air
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/booksonic-air
   - https://ghcr.io/linuxserver/booksonic-air
 type: application
 version: 13.8.15

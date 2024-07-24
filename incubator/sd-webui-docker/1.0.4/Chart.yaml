@@ -30,6 +30,6 @@ name: sd-webui-docker
 sources:
   - https://ghcr.io/neggles/sd-webui-docker
   - https://github.com/ahmetoner/sd-webui-docker/
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/sd-webui-docker
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/incubator/sd-webui-docker
 type: application
 version: 1.0.4

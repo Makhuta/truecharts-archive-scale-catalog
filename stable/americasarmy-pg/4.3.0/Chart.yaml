@@ -30,7 +30,7 @@ maintainers:
 name: americasarmy-pg
 sources:
   - https://www.americasarmy.com/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/americasarmy-pg
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/americasarmy-pg
   - https://hub.docker.com/r/ich777/steamcmd
 type: application
 version: 4.3.0

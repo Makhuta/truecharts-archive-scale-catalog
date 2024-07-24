@@ -27,7 +27,7 @@ maintainers:
     url: https://truecharts.org
 name: citadel-forgedwithfire
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/citadel-forgedwithfire
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/citadel-forgedwithfire
   - https://hub.docker.com/r/ich777/steamcmd
   - https://www.steampowered.com/
 type: application

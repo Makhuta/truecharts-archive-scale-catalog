@@ -32,7 +32,7 @@ maintainers:
 name: notifiarr
 sources:
   - https://github.com/Notifiarr/notifiarr
-  - https://github.com/truecharts/charts/tree/master/charts/stable/notifiarr
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/notifiarr
   - https://hub.docker.com/r/golift/notifiarr
 type: application
 version: 4.8.13

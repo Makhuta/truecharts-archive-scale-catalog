@@ -28,7 +28,7 @@ maintainers:
 name: codeproject-ai-server
 sources:
   - https://github.com/codeproject/CodeProject.AI-Server
-  - https://github.com/truecharts/charts/tree/master/charts/stable/codeproject-ai-server
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/codeproject-ai-server
   - https://hub.docker.com/r/codeproject/ai-server
 type: application
 version: 3.1.9

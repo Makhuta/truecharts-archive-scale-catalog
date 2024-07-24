@@ -29,6 +29,6 @@ name: adguardhome-sync
 sources:
   - https://ghcr.io/bakito/adguardhome-sync
   - https://github.com/bakito/adguardhome-sync/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/adguardhome-sync
+  - https://github.com/rogersbernat/truecharts-charts/tree/master/charts/stable/adguardhome-sync
 type: application
 version: 7.0.10
